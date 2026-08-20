@@ -37,7 +37,7 @@ Different SARIMA specifications were compared using information criteria and res
 
 ### Univariate Analysis Workflow
 
-![Univariate Analysis Workflow](images/univariate-analysis-workflow.png)
+![Univariate Analysis Workflow](images/univariate-analysis-workflow.png.jpeg)
 
 ## Multivariate Analysis
 
