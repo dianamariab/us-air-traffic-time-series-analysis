@@ -37,7 +37,7 @@ Different SARIMA specifications were compared using information criteria and res
 
 ### Univariate Analysis Workflow
 
-![Univariate Analysis Workflow](images/univariate-analysis-workflow.png.jpeg)
+![Univariate Analysis Workflow](images/univariate-analysis-workflow.png.png)
 
 ## Multivariate Analysis
 
@@ -67,7 +67,7 @@ The analysis distinguishes between short-term dynamics and possible long-term re
 
 ### Multivariate Analysis Workflow
 
-![Multivariate Analysis Workflow](images/multivariate-analysis-workflow.jpeg)
+![Multivariate Analysis Workflow](images/multivariate-analysis-workflow.jpeg.jpeg)
 
 ## Methods Used
 
